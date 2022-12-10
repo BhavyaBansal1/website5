@@ -1,0 +1,406 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbarbhavya{
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+
+
+
+
+
+    justify-content: center;
+    position: sticky;
+
+
+
+    
+    top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-leftbhavya{
+    margin-right: 200px;
+}
+.navbar-rightbhavya{
+    margin-left: 200px;
+}
+.nav-ulbhavya{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+.nav-linkbhavya{
+    margin-right:30px;
+    font-weight: lighter;
+    font-size: small;
+}
+.nav-linkbhavya:hover{
+    color:rgb(0, 106, 255);
+    font-weight:500;
+}
+
+.nav-logo-leftbhavya{
+    width : 35px;
+}
+.nav-logo-rightbhavya{
+    width : 25px;
+    margin-right: 5px;
+    border-radius: 100%;
+}
+.nav-logo-name-leftbhavya{
+    position: relative;
+    bottom:10px;
+    left: 5px;
+    font-weight: 500;
+}
+.nav-logo-name-rightbhavya{
+    font-size:small;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+.navbar2bhavya{
+
+
+
+
+
+    display: flex;
+    flex-direction: row;
+
+
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+.navbar2-div1bhavya{
+
+
+
+
+
+
+
+
+
+
+    display: flex;
+    flex-direction: row;
+    margin-right: 100px;
+
+
+
+
+
+
+}
+.navbar2-divbhavya{
+
+
+    margin-right: 100px;
+
+
+
+
+
+}
+.navbar2-div1-div1bhavya{
+
+
+
+
+    border:1px solid grey;
+    border-radius: 3px;
+    padding:3px;
+    margin-right: 10px;
+
+
+
+
+
+
+
+
+
+    margin-left: 10px;
+}
+.product-designingbhavya{
+
+    color:#0162ff;
+    font-weight: 200;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+    font-size: 0.7rem;
+
+}
+.find-jobbhavya{
+
+
+
+
+
+
+    background-color:#0162ff;
+    color: white;
+    padding: 10px;
+
+
+
+    border-radius:5px ;
+
+    margin-left: 20px;
+}
+.new-delhibhavya{
+    font-weight: 100;
+    font-size: small;
+}
+
+
+
+
+
+.container-mainbhavya{
+
+
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-bottom: 100px;
+
+
+
+
+}
+
+.left-menubhavya{
+
+
+
+
+    width: 80%;;
+    margin-left: 30px;
+    display: flex;
+
+
+
+    flex-direction: column;
+    margin-right: 30px;
+}
+.left-menu-searchbhavya{
+
+
+
+    margin: 15px;
+    border-radius: 5px;
+
+
+
+    padding-left: 20px;
+    background-color: hsl(215, 100%, 81%);
+}
+.checkboxbhavya{
+
+
+    display: inline;
+
+
+}
+.left-menu-subdivbhavya{
+
+
+    display: flex;
+
+    
+    margin-top:20px;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.create-job-alert-buttonbhavya{
+
+
+
+
+    -webkit-border-radius: 5;
+
+
+
+
+    -moz-border-radius: 5;
+    border-radius: 5px;
+    font-family: Arial;
+    background: #0162ff;
+    padding: 8px 22px 11px 24px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 12px;
+    
+}
+.create-job-alert-buttonbhavya:hover{
+    background: #3cb0fd;
+        text-decoration: none;
+}
+.container-right-threebhavya{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+.container-right-three-subdivbhavya{
+    margin-right: 5px;
+    font-size: 10px;
+    background-color: hwb(204 74% 2%);
+    padding: 4px;
+    border-radius: 3px;
+    color: #0162ff;
+    font-weight: 500;
+}
+.create-job-alert-textbhavya{
+
+
+
+
+    font-size: small;
+    font-weight: 700;
+}
+.create-job-alert-parabhavya{
+    font-size: small;
+    font-weight: 400;
+    
+    color: #424242;
+}
+
+
+
+.container-right-mainbhavya{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.container-right-subdivbhavya{
+    width: 33%;
+    margin-bottom: 30px;
+
+
+}
+.Applybhavya
+{
+    margin-right: 10px;
+    -webkit-border-radius: 5;
+  -moz-border-radius: 5;
+
+
+
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  background: #0162ff;
+
+
+  padding: 8px 22px 11px 24px;
+  text-decoration: none;
+}
+.Applybhavya:hover{
+
+
+        background: #3cb0fd;
+        text-decoration: none;
+
+}
+.Messagebhavya{
+    margin-right: 10px;
+    -webkit-border-radius: 5;
+
+
+
+  -moz-border-radius: 5;
+  border-radius: 5px;
+  font-family: Arial;
+
+
+  color: #000000;
+  font-size: 12px;
+  background: lightgrey;
+  padding: 8px 22px 11px 24px;
+  text-decoration: none;
+}
+.right-imagebhavya{
+    width:30px;
+
+
+
+}
+.right-para-subdivbhavya{
+    color: grey;
+
+    
+    font-size: small;
+}
+
+
+label{
+    font-weight: 200;
+    color: grey;
+
+
+
+
+    font-size: small;
+
+
+}
